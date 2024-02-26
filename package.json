@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-bullmq-queue-poc",
+  "version": "1.0.0",
+  "description": "BULL BULLMQ BULL-BOARD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishant/nodejs-bullmq-queue-poc.git"
+  },
+  "keywords": [
+    "bull",
+    "bullmq",
+    "bull-board"
+  ],
+  "author": "rishantgupta007@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishant/nodejs-bullmq-queue-poc/issues"
+  },
+  "homepage": "https://github.com/rishant/nodejs-bullmq-queue-poc#readme",
+  "dependencies": {
+    "bullmq": "^5.3.3"
+  }
+}
