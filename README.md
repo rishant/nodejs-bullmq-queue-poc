@@ -8,6 +8,10 @@
 
     npm install dotenv bull
 
+## Install BULLMQ GUI dependencies
+
+    npm install @bull-board/api @bull-board/ui @bull-board/express
+ 
 ## Learning Reference:
 
 https://docs.bullmq.io/readme-1
