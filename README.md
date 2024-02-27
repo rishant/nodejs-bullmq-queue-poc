@@ -21,3 +21,5 @@ https://optimalbits.github.io/bull/
 https://www.youtube.com/watch?v=i8Mn5Kyvh2Y&list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc&index=1&t=284s
 
 https://www.youtube.com/watch?v=Jyg_gddONN8&list=PLbGui_ZYuhijTJDBVBBqvri76uUNfsrCc&index=10&pp=iAQB
+
+https://www.youtube.com/watch?v=9jZrSLvJHqA&t=1399s
